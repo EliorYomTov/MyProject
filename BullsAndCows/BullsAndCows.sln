@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows.Logic", "BullsAndCows.Logic\BullsAndCows.Logic.csproj", "{F3AA8540-AAFD-43C4-A360-60FC5C025416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullsAndCows.UserInterface", "BullsAndCows.UserInterface\BullsAndCows.UserInterface.csproj", "{E0B1CCA1-F520-485A-8B5D-8731EAE62DB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C7B28BB-2B90-4451-A4A9-533EF61558D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AA8540-AAFD-43C4-A360-60FC5C025416}.Debug|x86.ActiveCfg = Debug|x86
+		{F3AA8540-AAFD-43C4-A360-60FC5C025416}.Debug|x86.Build.0 = Debug|x86
+		{F3AA8540-AAFD-43C4-A360-60FC5C025416}.Release|x86.ActiveCfg = Release|x86
+		{F3AA8540-AAFD-43C4-A360-60FC5C025416}.Release|x86.Build.0 = Release|x86
+		{E0B1CCA1-F520-485A-8B5D-8731EAE62DB0}.Debug|x86.ActiveCfg = Debug|x86
+		{E0B1CCA1-F520-485A-8B5D-8731EAE62DB0}.Debug|x86.Build.0 = Debug|x86
+		{E0B1CCA1-F520-485A-8B5D-8731EAE62DB0}.Release|x86.ActiveCfg = Release|x86
+		{E0B1CCA1-F520-485A-8B5D-8731EAE62DB0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7CC8E9-9938-4B9D-876F-8379FA267A8B}
+	EndGlobalSection
+EndGlobal
