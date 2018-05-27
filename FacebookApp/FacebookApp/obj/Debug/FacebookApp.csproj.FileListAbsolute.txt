@@ -1,0 +1,26 @@
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\A18 Ex03 Elior 301797734 Tzach 305688269.exe.config
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\A18 Ex03 Elior 301797734 Tzach 305688269.exe
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\A18 Ex03 Elior 301797734 Tzach 305688269.pdb
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\Facebook.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\YoutubeExtractor.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\YoutubeExtractor.xml
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csprojResolveAssemblyReference.cache
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csproj.ResolveComReference.cache
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\FacebookApp.AppMainForm.resources
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\A18_Ex03_Elior_301797734_Tzach_305688269.Properties.Resources.resources
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csproj.GenerateResource.cache
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csproj.CoreCompileInputs.cache
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csproj.CopyComplete
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\A18 Ex03 Elior 301797734 Tzach 305688269.exe
+C:\Users\Elior Yom-Tov\Desktop\FacebookApp\FacebookApp\obj\Debug\A18 Ex03 Elior 301797734 Tzach 305688269.pdb
